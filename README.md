@@ -17,6 +17,8 @@ Person A:
 
 Person B:
 
+Person C: Gavin
+
 Now both partners should run
 
     git clone https://github.com/<your username>/lab9
