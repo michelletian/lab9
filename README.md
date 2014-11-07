@@ -15,7 +15,7 @@ person B to the repo.
 
 Person A: Michelle Tian
 
-Person B:
+Person B: Brian Chen
 
 Now both partners should run
 
